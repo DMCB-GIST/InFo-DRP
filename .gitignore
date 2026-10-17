@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# large files distributed via Google Drive
+checkpoint/
+pretrained/
+
+# run outputs
+result/
+features/
